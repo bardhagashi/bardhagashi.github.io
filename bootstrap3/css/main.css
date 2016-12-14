@@ -1,0 +1,10 @@
+ .container{
+ 	background-image: url(images/++.jpg);
+ }
+}
+.container1 p {
+	text-align: justify;
+}
+.btn-default{
+	border-color: #fb2274 ;
+}
